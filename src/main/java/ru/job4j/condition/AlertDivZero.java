@@ -8,7 +8,7 @@ public class AlertDivZero {
             System.out.println("This is negative number");
         }
     }
-
+    
     public static void main(String[] args) {
         AlertDivZero.possibleDiv(-4);
 
